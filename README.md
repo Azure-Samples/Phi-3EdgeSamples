@@ -1,14 +1,19 @@
-# Project Name
+# Phi-3 Small Language Models Edge Samples
 
-(short, 1-3 sentenced, description of the project)
+This repository contains samples of Phi-3 Small Language Models running on various edge devices. The goal is to demonstrate the capabilities and versatility of these models across a range of hardware.
 
-## Features
+## Supported Devices
 
-This project framework provides the following features:
+- NVIDIA Jetson Series:
+    - Jetson NX
+    - Jetson Xavier
+    - Jetson Orin Nano
+    - Jetson Orin NX
+- Intel Devices:
+    - Intel CPUs with ONNX+DirectML support
+    - Devices supporting OpenVINO
 
-* Feature 1
-* Feature 2
-* ...
+These samples provide a starting point for developers to integrate Phi-3 Small Language Models into their edge applications, harnessing the power of AI on these devices.
 
 ## Getting Started
 
